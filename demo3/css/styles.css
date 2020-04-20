@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: white;
+    position: absolute;
+    top: 30px;
+    left: 40px;
+}
+
+h3 {
+    position: relative;
+    left: 10px;
+    top: 30px;
+}
+
+p {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+.top-box {
+    background-color: rgb(78, 73, 73);
+    height: 100px;
+    width: 1500px;
+}
+
+.child-box-left {
+    background-color: rgb(196, 194, 194);
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+    width: 100px;
+}
+
+.child-box-right {
+    border: 1px solid rgb(196, 194, 194);
+    height: 100px;
+    width: 1498px;
+}
