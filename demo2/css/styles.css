@@ -1,0 +1,16 @@
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.left-box {
+    width: 150px;
+    height: 750px;
+    background-color: rgb(55, 176, 216);
+    float: left;
+}
+
+.right-box {
+    float: left;
+    margin-left: 30px;
+}
